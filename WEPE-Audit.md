@@ -280,10 +280,7 @@ This report is organized into clear sections, each detailing a specific vulnerab
 
 ---
 
-## **Follow-up Support**
-We offer **30 days of post-audit support** for any questions or clarifications regarding this report. Please feel free to reach out for further assistance.
 
----
 
 ## **Conclusion**
 This audit identifies several vulnerabilities and provides actionable recommendations to mitigate them. By implementing these changes, the contract will be more secure, efficient, and compliant with industry standards. If you have any questions or need further assistance, please do not hesitate to contact us.
